@@ -21,7 +21,7 @@ const baseUrl = process.env.VERCEL_URL
 export const SponsorSection = () => (
   <Html>
     <Head />
-    <Preview>You're now ready to make live transactions with Stripe!</Preview>
+    <Preview>This is only a test</Preview>
     <Body style={main}>
       <Container style={container}>
         <Text style={footer}>
